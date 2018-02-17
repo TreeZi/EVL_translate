@@ -1,10 +1,8 @@
 # Exit, Voice and Loyalty (1970)
-	# Responses to Decline in Firms, Organizations, and States
------
+# Responses to Decline in Firms, Organizations, and States
 
+---
 ##### Author: `Albert O. Hirschman`
-##### 
-
 ---
 # 翻譯進度
 ## Preface
@@ -35,11 +33,3 @@
 ### D. Consumer reactions to price rise and quality decline in the case of several connoisseur goods
 ### E. The effects of severity of initiation on activism: design for an experiment (in collaboration with Phillip G. Zimbardo and Mark Snyder)
 ## Index
-fff11
-
-111
-
-```
-fdafdsafssd
-```
-ffff
